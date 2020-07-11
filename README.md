@@ -6,5 +6,5 @@
 
 <p align="center">
   <b>Hey, I'm Claire 👋</b> <br />
-  I'm working as a Junior Developer for <a href="https://www.signal-noise.co.uk/" target="_blank">Signal Noise</a>.
+  I'm working as a Junior Software Engineer for <a href="https://www.signal-noise.co.uk/" target="_blank">Signal Noise</a>.
 </p>
