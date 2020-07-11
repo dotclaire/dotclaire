@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.dotclaire.im/">
+  <a href="https://www.dotclaire.im/" target="_blank">
     <img src="https://www.dotclaire.im/images/github-profile-banner.svg" alt="Personal Website" />
   </a>  
 </p>
