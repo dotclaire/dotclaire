@@ -6,5 +6,5 @@
 
 <p align="center">
   <b>Hey, I'm Claire 👋</b> <br />
-  I'm working as a Software Engineer for <a href="https://www.radically.digital/" target="_blank">Radically Digital</a>.
+  I'm working as a Software Engineer for <a href="https://www.ovoenergy.com/" target="_blank">OVO</a>.
 </p>
